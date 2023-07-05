@@ -12,6 +12,10 @@ CloudFlare Dashboard > Images >Overview >(on right side) Developer Resources > A
 **CF_API_TOKEN**
 CloudFlare Dashboard > (Top Right  Profile Icon) My profile > (Left Side) API Tokens > Create Token > Read and write to Cloudflare Stream and Images (User Template) > Continue to summary > Create Token 
 
+##### Installation
+```
+npm i cloudflare-images-lib
+```
 
 #### base64 Upload
 
